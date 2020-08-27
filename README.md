@@ -14,7 +14,7 @@
 
 - 🇧🇷 🇺🇸 🇩🇪 I think that communication is really important to have a healthy workplace environment, and I would like to mention that I have good soft and hard skills related to it - I've received great feedbacks about my nonviolent communication and I can speak Portuguese, English and German. Alles Klar?
 
-- 📫 If you'd like to know more about me, feel free to add me on the networks below:
+- 📫 If you'd like to know more about me, feel free to follow me on the networks below:
 
 <a href="http://www.linkedin.com/in/laurolyra"><img src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-plain.svg" alt="linkedin" width="40" height="40"/></a>
 <a href="http://www.twitter.com/laurolyra"><img src="https://devicons.github.io/devicon/devicon.git/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="40"/></a>
