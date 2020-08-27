@@ -8,9 +8,7 @@
 
 - 🌱 During this 12-month course, I've learned the basics of front-end and back-end development, studying languages like HTML, CSS and JavaScript (with focus on the React Framework). on the server side, I've developed some projects on MySQL, MongoDB and NodeJS. All of them can be found on the repository **my projectys**, pinned here.
 
-- Here are my statuses so far:
-
-[![laurolyra's github stats](https://github-readme-stats.vercel.app/api?username=laurolyra)](https://github.com/laurolyra/github-readme-stats)
+⋅⋅⋅[![laurolyra's github stats](https://github-readme-stats.vercel.app/api?username=laurolyra)](https://github.com/laurolyra/github-readme-stats)
 
 - Besides the programming languages above, I'm really curious and looking for some mentors that could help me on my way throught learning **Python** and **PHP**.
 
