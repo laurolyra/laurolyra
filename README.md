@@ -4,7 +4,7 @@ My name is Lauro Lyra Aguiar. I am an ex-attorney, no longer working at the fiel
 During this 12-month course, I've learned the basics of front-end and back-end development, studying languages like HTML, CSS and Javascript (specially the framework React). on the server side, I've developed some projects on MySQL, MongoDB and NodeJS. All of them can be found on the repository **my projectys**, pinned here.
 
 If you'd like to know more about me, feel free to add me on the networks below:
-<a href="www.linkedin.com/in/laurolyra" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-plain.svg" alt="linkedin" width="40" height="40"/></a>
+<a href="http://www.linkedin.com/in/laurolyra" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-plain.svg" alt="linkedin" width="40" height="40"/></a>
 
 
 <!--
