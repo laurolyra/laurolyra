@@ -2,7 +2,7 @@
 My name is Lauro Lyra Aguiar. I am an ex-attorney, no longer working at the field, and studying hard (@ [Trybe](https://www.betrybe.com)) to be a software developer.
 - 😄 he/him/his
 
-- 🌱 During this 12-month course, I've learned the basics of front-end and back-end development, studying languages like HTML, CSS and <img src="https://devicons.github.io/devicon/devicon.git/icons/twitter/twitter-original.svg" alt="twitter" width="10" height="10"/></a> (specially the framework React). on the server side, I've developed some projects on MySQL, MongoDB and NodeJS. All of them can be found on the repository **my projectys**, pinned here.
+- 🌱 During this 12-month course, I've learned the basics of front-end and back-end development, studying languages like HTML, CSS and <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-plain.svg" alt="JavaScript" width="15" height="15"/></a> (specially the framework React). on the server side, I've developed some projects on MySQL, MongoDB and NodeJS. All of them can be found on the repository **my projectys**, pinned here.
 
 Besides the languages above, I'm really curious and looking for some mentors that could help me on my way throught learning python and PHP.
 
