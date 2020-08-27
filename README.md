@@ -12,7 +12,7 @@
 
 - 👯 I've collaborated to improve Trybe's course and live lectures as a Summer Job student. During 3 months, adopting Agile Methodologies, I've helped the entire school to bring and produce better content, removing unnecessary or confusing explanations and adding more examples to make the content as clear as possible.
 
-- 🇧🇷 🇺🇸 🇩🇪 I think that communication is really important to have a healthy workplace environment. Thinking about it, I would like to mention that I have good soft and hard skills related to it - I've received great feedbacks about my nonviolent communication and I can speak Portuguese, English and German. Alles Klar?
+- 🇧🇷 🇺🇸 🇩🇪 I think that communication is really important to have a healthy workplace environment, and I would like to mention that I have good soft and hard skills related to it - I've received great feedbacks about my nonviolent communication and I can speak Portuguese, English and German. Alles Klar?
 
 - 📫 If you'd like to know more about me, feel free to add me on the networks below:
 
