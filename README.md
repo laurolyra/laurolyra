@@ -1,4 +1,4 @@
-### Welcome to Lauro Lyra Aguiar's README <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+### `sudo apt-get install lauro-lyra-aguiar-readme` <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="React" width="40" height="40"/>
 
 - 😄 he/him/his
 
