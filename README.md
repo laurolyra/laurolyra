@@ -6,7 +6,7 @@ Hi! I am an Brazilian ex-attorney, no longer working at the field, and studying 
 
 - 😄 he/him/his
 
-- 🌱 During this 12-month course, I've learned the basics of front-end and back-end development, studying languages like HTML, CSS and JavaScript (with focus on the React Framework). on the server side, I've developed some projects on MySQL, MongoDB and NodeJS. Some of them can be found on the repository **my projects**, pinned here.
+- 🌱 During this 12-month course, I've learned the basics of front-end and back-end development, studying languages like HTML, CSS and JavaScript (with focus on the React Framework). On the server side, I've developed some projects on MySQL, MongoDB and NodeJS. Some of them can be found on the repository **my projects**, pinned here.
 
    [![laurolyra's github stats](https://github-readme-stats.vercel.app/api?username=laurolyra)](https://github.com/laurolyra/github-readme-stats)
 
