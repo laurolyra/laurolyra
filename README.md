@@ -2,13 +2,15 @@
 
 - 😄 he/him/his
 
-- Hi! I am an ex-attorney, no longer working at the field, and studying hard (@ [Trybe](https://www.betrybe.com)) to be a software developer.
+- Hi! I am an Brazilian ex-attorney, no longer working at the field, and studying hard (@ [Trybe](https://www.betrybe.com)) to be a software developer.
 
-- 🌱 During this 12-month course, I've learned the basics of front-end and back-end development, studying languages like <. on the server side, I've developed some projects on MySQL, MongoDB and NodeJS. All of them can be found on the repository **my projectys**, pinned here.
+- 🌱 During this 12-month course, I've learned the basics of front-end and back-end development, studying languages like HTML, CSS and JavaScript (with focus on the React Framework). on the server side, I've developed some projects on MySQL, MongoDB and NodeJS. All of them can be found on the repository **my projectys**, pinned here.
 
-- Besides the languages above, I'm really curious and looking for some mentors that could help me on my way throught learning **Python** and **PHP**.
+- Besides the programming languages above, I'm really curious and looking for some mentors that could help me on my way throught learning **Python** and **PHP**.
 
-- 👯 I've collaborated to improve Trybe's course and live lectures as a Summer Job student. During 3 months, adopting Agile Methodology, I've helped the entire school to bring and produce better content, removing unnecessary or confusing explanations and adding more examples to make the content as clear as possible.
+- 👯 I've collaborated to improve Trybe's course and live lectures as a Summer Job student. During 3 months, adopting Agile Methodologies, I've helped the entire school to bring and produce better content, removing unnecessary or confusing explanations and adding more examples to make the content as clear as possible.
+
+- 🇧🇷 🇺🇸 🇩🇪 I think that communication is really important to have a healthy workplace environment. Thinking about it, I would like to mention that I have good soft and hard skills related to it - I've received great feedbacks about my nonviolent communication and I can speak Portuguese, English and German. Alles Klar?
 
 - 📫 If you'd like to know more about me, feel free to add me on the networks below:
 
