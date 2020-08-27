@@ -2,7 +2,7 @@
 My name is Lauro Lyra Aguiar. I am an ex-attorney, no longer working at the field, and studying hard (@ [Trybe](https://www.betrybe.com)) to be a software developer.
 - 😄 he/him/his
 
-- 🌱 During this 12-month course, I've learned the basics of front-end and back-end development, studying languages like <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="HTML" width="15" height="15"/></a>, CSS and <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" width="15" height="15"/></a> (specially the framework React). on the server side, I've developed some projects on MySQL, MongoDB and NodeJS. All of them can be found on the repository **my projectys**, pinned here.
+- 🌱 During this 12-month course, I've learned the basics of front-end and back-end development, studying languages like <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="HTML" width="15" height="15"/></a>, <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="CSS" width="20" height="20"/></a> and <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" width="15" height="15"/></a> (specially the framework React). on the server side, I've developed some projects on MySQL, MongoDB and NodeJS. All of them can be found on the repository **my projectys**, pinned here.
 
 
 Besides the languages above, I'm really curious and looking for some mentors that could help me on my way throught learning python and PHP.
