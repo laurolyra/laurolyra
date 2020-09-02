@@ -18,5 +18,5 @@ Hi! I am an Brazilian ex-attorney, no longer working at the field, and studying 
 
 - 📫 If you'd like to know more about me, feel free to follow me on the networks below:
 
-<a href="http://www.linkedin.com/in/laurolyra"><img src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-plain.svg" alt="linkedin" width="40" height="40"/></a>
-<a href="http://www.twitter.com/laurolyra"><img src="https://devicons.github.io/devicon/devicon.git/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="40"/></a>
+   <a href="http://www.linkedin.com/in/laurolyra"><img src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-plain.svg" alt="linkedin" width="40" height="40"/></a>
+   <a href="http://www.twitter.com/laurolyra"><img src="https://devicons.github.io/devicon/devicon.git/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="40"/></a>
