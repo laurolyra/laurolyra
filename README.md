@@ -3,17 +3,16 @@
 ### `sudo apt-get install lauro-lyra-aguiar-readme`
 (just kidding! this package doesn't exist... yet!)
 
-<code style="font-size: 40px">
-<i class="devicon-html5-plain-wordmark colored" alt="HTML"></i>
-<i class="devicon-css3-plain-wordmark colored" alt="CSS"></i>
-<i class="devicon-javascript-plain colored" alt="JavaScript"></i>
-<i class="devicon-react-original colored" alt="React">
-<i class="devicon-angularjs-plain colored" alt="angularJS"></i>
-<i class="devicon-nodejs-plain colored" alt="nodeJS"></i></i>
-<i class="devicon-mongodb-plain colored" alt="mongoDB"></i>
-<i class="devicon-mysql-plain colored" alt="MySQL"></i>
-<i class="devicon-python-plain colored"></i>
-<i class="devicon-linux-plain colored" alt="Linux"></i>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML"/>
+<img height="40" width="40" style="height:40px; width:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS">
+<img height="40" width="40" style="height:40px; width:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
+<img height="40" width="40" style="height:40px; width:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React">
+<img height="40" width="40" style="height:40px; width:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularJS">
+<img height="40" width="40" style="height:40px; width:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS">
+<img height="40" width="40" style="height:40px; width:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongoDB">
+<img height="40" width="40" style="height:40px; width:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL">
+<img height="40" width="40" style="height:40px; width:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
+<img height="40" width="40" style="height:40px; width:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux">
 </code>
 
 Hi! I am an Brazilian ex-attorney, no longer working at the field, now working @ PagueVeloz Serviços de Pagamento as a front-end software developer, learning and fixing issues using angularJS.
@@ -34,5 +33,5 @@ I am also working at FlowBr as a frontend developer, creating components, webpag
 
 - 📫 If you'd like to know more about me, feel free to follow me on the networks below:
 
-   <code style="font-size: 50px"><a href="http://www.linkedin.com/in/laurolyra"><i class="devicon-linkedin-plain colored" alt="LinkedIn"></i></a>
-   <a href="http://www.twitter.com/laurolyra"><i class="devicon-twitter-original colored" alt="twitter"></i></a></code>
+   <code><a href="http://www.linkedin.com/in/laurolyra"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn"></img></a>
+   <a href="http://www.twitter.com/laurolyra"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter"></img></a></code>
