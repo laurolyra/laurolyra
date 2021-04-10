@@ -25,7 +25,7 @@ I am also working at FlowBr as a frontend developer, creating components, webpag
 
    [![laurolyra's github stats](https://github-readme-stats.vercel.app/api?username=laurolyra)](https://github.com/laurolyra/github-readme-stats)
 
-- Besides the programming languages above, I'm really curious and looking for some mentors that could help me on my way throught learning **PHP** and other frontend frameworks, like **VUE**.
+- In addition to the programming languages above, I'm really curious and looking for some mentors that could help me on my way throught learning **PHP** and other frontend frameworks, like **VUE**.
 
 - 👯 I've collaborated to improve Trybe's course and live lectures as a Summer Job student. During 3 months, adopting Agile Methodologies, I've helped the entire course, bringing and improving content, removing unnecessary or confusing explanations and adding more examples to make every topic as clear as possible.
 
