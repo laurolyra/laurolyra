@@ -15,6 +15,10 @@
 <img height="40" width="40" style="height:40px; width:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux">
 </code>
 
+<code>
+   <img src="https://www.codewars.com/users/laurolyra/badges/large" alt="CodeWars Badge">
+</code>
+
 Hi! I am an Brazilian ex-attorney, no longer working at the field, now working @ PagueVeloz Serviços de Pagamento as a front-end software developer, learning and fixing issues using angularJS.
 
 I am also working at FlowBr as a frontend developer, creating components, webpages and modals in the SIGA portal Project, using **React** and **Material-UI**.
