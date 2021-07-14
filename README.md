@@ -19,7 +19,7 @@
    <img src="https://www.codewars.com/users/laurolyra/badges/large" alt="CodeWars Badge">
 </code>
 
-Hi! I am an Brazilian ex-attorney, no longer working at the field, now working @ PagueVeloz Serviços de Pagamento as a front-end software developer, learning and fixing issues using angularJS.
+Hi! I am an Brazilian ex-attorney, no longer working at the field, now working @ Blu Pagamentos S/A as a front-end software developer, learning and fixing issues using angularJS.
 
 I am also working at FlowBr as a frontend developer, creating components, webpages and modals in the SIGA portal Project, using **React** and **Material-UI**.
 
