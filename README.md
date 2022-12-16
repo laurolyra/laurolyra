@@ -19,7 +19,7 @@
    <img src="https://www.codewars.com/users/laurolyra/badges/large" alt="CodeWars Badge">
 </code>
 
-Hi! I am an Brazilian ex-attorney, no longer working at the field, now working @ QDOIS - Data Intelligence as a front-end software developer, learning and fixing issues using React.
+Hi! I am an Brazilian ex-attorney, no longer working at the field, learning and fixing issues using mostly React and Typescript.
 
 - 😄 he/him/his
 
