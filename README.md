@@ -3,23 +3,11 @@
 ### `sudo apt-get install lauro-lyra-aguiar-readme`
 (just kidding! this package doesn't exist... yet!)
 
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML"/>
-<img height="40" width="40" style="height:40px; width:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS">
-<img height="40" width="40" style="height:40px; width:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
-<img height="40" width="40" style="height:40px; width:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" />       
-<img height="40" width="40" style="height:40px; width:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React">
-<img height="40" width="40" style="height:40px; width:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextJS"/>          
-<img height="40" width="40" style="height:40px; width:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularJS">
-<img height="40" width="40" style="height:40px; width:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS">
-<img height="40" width="40" style="height:40px; width:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongoDB">
-<img height="40" width="40" style="height:40px; width:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL">
-<img height="40" width="40" style="height:40px; width:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
-<img height="40" width="40" style="height:40px; width:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux">
-</code>
+ <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML"/><img height="40" width="40" style="height:40px; width:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS"/><img height="40" width="40" style="height:40px; width:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/><img height="40" width="40" style="height:40px; width:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" /><img height="40" width="40" style="height:40px; width:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"/><img height="40" width="40" style="height:40px; width:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextJS"/><img height="40" width="40" style="height:40px; width:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularJS"/><img height="40" width="40" style="height:40px; width:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS"/><img height="40" width="40" style="height:40px; width:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongoDB"/><img height="40" width="40" style="height:40px; width:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"/><img height="40" width="40" style="height:40px; width:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/><img height="40" width="40" style="height:40px; width:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"/>
 
-<code>
-   <img src="https://www.codewars.com/users/laurolyra/badges/large" alt="CodeWars Badge">
-</code>
+
+<img src="https://www.codewars.com/users/laurolyra/badges/large" alt="CodeWars Badge">
+
 
 Hi! I am an Brazilian ex-attorney, no longer working at the field, learning and fixing issues using mostly React and Typescript.
 
